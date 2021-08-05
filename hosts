@@ -1,0 +1,299 @@
+# Static table lookup for hostnames.
+# See hosts(5) for details.
+#
+#
+###################################################################################################################
+###################################################################################################################
+
+### facebook - if you want to disable like buttons, trackings, etc, uncomment these - but you won't be able to login anymore
+#127.0.0.1	www.facebook.com
+#127.0.0.1	facebook.com
+#127.0.0.1	login.facebook.com
+#127.0.0.1	www.login.facebook.com
+#127.0.0.1	fbcdn.net
+#127.0.0.1	www.fbcdn.net
+#127.0.0.1	fbcdn.com
+#127.0.0.1	www.fbcdn.com
+#127.0.0.1	static.ak.fbcdn.net
+#127.0.0.1	static.ak.connect.facebook.com
+#127.0.0.1	connect.facebook.net
+#127.0.0.1	www.connect.facebook.net
+### facebook
+
+
+### instagram - if you want to disable like buttons, trackings, etc, uncomment these - but you won't be able to login anymore
+#127.0.0.1 www.instagram.com
+#127.0.0.1 instagram.com
+#127.0.0.1 scontent-frt3-1.cdninstagram.com
+#127.0.0.1 https://scontent-frx5-1.cdninstagram.com
+### instagram
+
+
+### index.hu
+127.0.0.1 index.hu
+127.0.0.1 ls.hit.gemius.pl
+127.0.0.1 gahu.hit.gemius.pl
+127.0.0.1 gemius.pl
+127.0.0.1 asset.pagefair.com
+127.0.0.1 onesignal.com
+127.0.0.1 pagefair.net
+#127.0.0.1 ytimg.com
+#127.0.0.1 s.ytimg.com
+127.0.0.1 google-analytics.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 adocean.pl
+127.0.0.1 indexstat.index.hu
+127.0.0.1 static.hotjar.com
+127.0.0.1 script.hotjar.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 www.googletagmanager.com
+127.0.0.1 googletagmanager.com
+127.0.0.1 consensu.org
+127.0.0.1 www.consensu.org
+127.0.0.1 quantcast.mgr.consensu.org
+127.0.0.1 www.quantcast.mgr.consensu.org
+127.0.0.1 quantserve.com
+127.0.0.1 www.quantserve.com
+127.0.0.1 pixel.quantserve.com
+127.0.0.1 www.pixel.quantserve.com
+127.0.0.1 bank360.hu
+127.0.0.1 www.bank360.hu
+### index.hu
+
+
+### prohardver
+127.0.0.1 doubleverify.com
+### prohardver
+
+### ncore
+127.0.0.1 banneflow.com
+127.0.0.1 www.bannerflow.com
+127.0.0.1 dyn.bannerflow.com
+127.0.0.1 www.dyn.bannerflow.com
+127.0.0.1 unibet-unibet.bannerflow.com
+127.0.0.1 www.unibet-unibet.bannerflow.com
+### ncore
+
+
+### vatera
+127.0.0.1 gravityrd-services.com
+127.0.0.1 www.gravityrd-services.com
+127.0.0.1 vatera-bud.gravityrd-services.com
+127.0.0.1 www.vatera-bud.gravityrdd-services.com
+### vatera
+
+
+### szotar.sztaki.hu
+127.0.0.1 headerbidding.services
+127.0.0.1 www.headerbidding.services
+127.0.0.1 hit.gemius.pl
+127.0.0.1 www.hit.gemius.pl
+127.0.0.1 hu.hit.gemius.pl
+127.0.0.1 www.hu.hit.gemius.pl
+127.0.0.1 infinety.hu
+127.0.0.1 www.infinety.hu
+127.0.0.1 server.infinety.hu
+127.0.0.1 www.server.infinety.hu
+### szotar.sztaki.hu
+
+
+### moly.hu
+127.0.0.1 related.hu
+127.0.0.1 www.related.hu
+127.0.0.1 widget.related.hu
+127.0.0.1 www.widget.related.hu
+### moly.hu
+
+
+### gyakorikerdesek.hu
+127.0.0.1 gyakorikerdesek.hu
+127.0.0.1 www.gyakorikerdesek.hu
+127.0.0.1 static.webminute.hu
+127.0.0.1 webminute.hu
+127.0.0.1 pahtag.tech
+127.0.0.1 aghtag.tech
+127.0.0.1 www.static.webminute.hu
+127.0.0.1 www.webminute.hu
+127.0.0.1 www.pahtag.tech
+127.0.0.1 www.aghtag.tech
+### gyakorikerdesek.hu
+
+
+### 444.hu
+127.0.0.1 campaign-remp.444.hu/assets/lib/js/remplib.js
+127.0.0.1 gateway.ipa.444.hu
+127.0.0.1 heartbeat.pmd.444.hu
+### 444.hu
+
+
+### origo.hu
+#127.0.0.1 origo.hu
+127.0.0.1 cdn.nwmgroups.hu
+127.0.0.1 fundingchoicesmessages.google.com
+127.0.0.1 ghmhu.hit.gemius.pl
+127.0.0.1 static.hotjar.com
+127.0.0.1 szallas.travelo.hu
+127.0.0.1 utazas.travelo.hu
+127.0.0.1 outal.origo.hu
+### origo.hu
+
+
+### 888.hu
+#128.0.0.1 888.hu
+### 888.hu
+
+
+### vg.hu
+127.0.0.1 cdn.embedly.com
+127.0.0.1 zoe.mediaworks.hu
+### vg.hu
+
+
+### 24.hu
+127.0.0.1 adfree-stat.p3g.hu
+127.0.0.1 cts.p24.hu
+127.0.0.1 geoip.p24.hu
+127.0.0.1 segment.p24.hu
+127.0.0.1 spl.hit.gemius.pl
+127.0.0.1 stat.p24.hu
+### 24.hu
+
+
+### idokep.hu
+127.0.0.1 assets.strossle.com
+127.0.0.1 cdn.atmedia.hu
+127.0.0.1 cdn.publisher1st.com
+### idokep.hu
+
+
+### szeretlekmagyarorszag.hu
+127.0.0.1 ka-f.fontawesome.com
+127.0.0.1 kit.fontawesome.com
+127.0.0.1 static.cloudflareinsights.com
+127.0.0.1 hit.api.useinsider.com
+127.0.0.1 ingatlanhu.api.useinsider.com
+127.0.0.1 location.api.useinsider.com
+127.0.0.1 segment.api.useinsider.com
+127.0.0.1 unification.useinsider.com
+### szeretlekmagyarorszag.hu
+
+
+### divany.hu
+127.0.0.1 indexadhu.hit.gemius.pl
+127.0.0.1 management.ident.indapass.hu
+### divany.hu
+
+
+### bien.hu
+127.0.0.1 cdn.onesignal.com
+127.0.0.1 certify-js.alexametrics.com
+127.0.0.1 redirect.prod.experiment.routing.cloudfront.aws.a2z.com
+### bien.hu
+
+
+### cosmopolitan.hu
+127.0.0.1 hello.myfonts.net
+127.0.0.1 p.typekit.net
+127.0.0.1 use.typekit.net
+### cosmopolitan.hu
+
+
+############## NON-HUNGARIAN ##############
+
+### Merriam-Webster
+127.0.0.1 cookielaw.org
+127.0.0.1 www.cookielaw.org
+127.0.0.1 cdn.cookielaw.org
+127.0.0.1 www.cdn.cookielaw.org
+127.0.0.1 blueconic.net
+127.0.0.1 www.blueconic.net
+127.0.0.1 cdn.blueconic.net
+127.0.0.1 www.cdn.blueconic.net
+127.0.0.1 heapanalytics.com
+127.0.0.1 www.heapanalytics.com
+127.0.0.1 cdn.heapanalyitcs.com
+127.0.0.1 www.cdn.heapanalytics.com
+127.0.0.1 encyclopediabritannica.blueconic.net
+127.0.0.1 www.encyclopediabritannica.blueconic.net
+127.0.0.1 bouncex.net
+127.0.0.1 www.bouncex.net
+127.0.0.1 cdn.bouncex.net
+127.0.0.1 www.cdn.bouncex.net
+127.0.0.1 onetrust.com
+127.0.0.1 www.onetrust.com
+127.0.0.1 geolocation.onetrust.com
+127.0.0.1 www.geolocation.onetrust.com
+127.0.0.1 plantdigestion.com
+127.0.0.1 www.plantdigestion.com
+### Merriam-Webster
+
+
+### ebay
+127.0.0.1 everesttech.net
+127.0.0.1 www.everesttech.net
+127.0.0.1 cm.everesttech.net
+127.0.0.1 www.cm.everesttech.net
+127.0.0.1 demdex.net
+127.0.0.1 www.demdex.net
+127.0.0.1 ebayinc.demdex.net
+127.0.0.1 www.ebayinc.demdex.net
+127.0.0.1 bluekai.com
+127.0.0.1 www.bluekai.com
+127.0.0.1 stags.bluekai.com
+127.0.0.1 www.stags.bluekai.com
+127.0.0.1 online-metrix.net
+127.0.0.1 www.online-metrix.net
+127.0.0.1 aa.online-metrix.net
+127.0.0.1 www.aa.online-metrix.net
+127.0.0.1 e.aa.online-metrix.net
+127.0.0.1 www.e.aa.online-metrix.net
+
+
+### gizmodo
+127.0.0.1 bounceexchange.com
+127.0.0.1 www.bounceexchange.com
+127.0.0.1 api.bounceexchange.com
+127.0.0.1 www.api.bounceexchange.com
+127.0.0.1 assets.bounceexchange.com
+127.0.0.1 www.assets.bounceexchange.com
+127.0.0.1 tag.bounceexchange.com
+127.0.0.1 www.tag.bounceexchange.com
+127.0.0.1 btloader.com
+127.0.0.1 www.btloader.com
+127.0.0.1 api.btloader.com
+127.0.0.1 www.api.btloader.com
+127.0.0.1 trackonomics.net
+127.0.0.1 www.trackonomics.net
+127.0.0.1 cdn-magiclinks.trackonomics.com
+127.0.0.1 www.cdn-magiclinks.trackonomics.com
+127.0.0.1 britepool.com
+127.0.0.1 www.britepool.com
+127.0.0.1 cdn.britepool.com
+127.0.0.1 www.cdn.britepool.com
+127.0.0.1 speedcurve.com
+127.0.0.1 www.speedcurve.com
+127.0.0.1 cdn.speedcurve.com
+127.0.0.1 www.cdn.speedcurve.com
+127.0.0.1 scroll.com
+127.0.0.1 www.scroll.com
+127.0.0.1 connect.scroll.com
+127.0.0.1 www.connect.scroll.com
+127.0.0.1 static.scroll.com
+127.0.0.1 www.static.scroll.com
+127.0.0.1 cdnbasket.net
+127.0.0.1 www.cdnbasket.net
+127.0.0.1 data.cdnbasket.net
+127.0.0.1 www.data.cdnbasket.net
+127.0.0.1 page.cdnbasket.net
+127.0.0.1 www.page.cdnbasket.net
+127.0.0.1 view.cdnbasket.net
+127.0.0.1 www.view.cdnbasket.net
+127.0.0.1 cdnwidget.com
+127.0.0.1 www.cdnwidget.com
+127.0.0.1 e.cdnwidget.com
+127.0.0.1 www.e.cdnwidget.com
+127.0.0.1 ids.cdnwidget.com
+127.0.0.1 www.ids.cdnwidget.com
+### gizmodo
+
+############## NON-HUNGARIAN ##############
