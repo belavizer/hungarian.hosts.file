@@ -25,7 +25,7 @@
 #127.0.0.1 www.instagram.com
 #127.0.0.1 instagram.com
 #127.0.0.1 scontent-frt3-1.cdninstagram.com
-#127.0.0.1 https://scontent-frx5-1.cdninstagram.com
+#127.0.0.1 scontent-frx5-1.cdninstagram.com
 ### instagram
 
 
@@ -120,15 +120,15 @@
 
 
 ### 444.hu
-127.0.0.1 campaign-remp.444.hu/assets/lib/js/remplib.js
-127.0.0.1 gateway.ipa.444.hu
+127.0.0.1 campaign-remp.444.hu
+#127.0.0.1 gateway.ipa.444.hu
 127.0.0.1 heartbeat.pmd.444.hu
 ### 444.hu
 
 
 ### origo.hu
 #127.0.0.1 origo.hu
-127.0.0.1 cdn.nwmgroups.hu
+#127.0.0.1 cdn.nwmgroups.hu
 127.0.0.1 fundingchoicesmessages.google.com
 127.0.0.1 ghmhu.hit.gemius.pl
 127.0.0.1 static.hotjar.com
