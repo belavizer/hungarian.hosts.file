@@ -66,12 +66,12 @@
 ### prohardver
 
 ### ncore
-127.0.0.1 banneflow.com
-127.0.0.1 www.bannerflow.com
-127.0.0.1 dyn.bannerflow.com
-127.0.0.1 www.dyn.bannerflow.com
-127.0.0.1 unibet-unibet.bannerflow.com
-127.0.0.1 www.unibet-unibet.bannerflow.com
+#127.0.0.1 banneflow.com
+#127.0.0.1 www.bannerflow.com
+#127.0.0.1 dyn.bannerflow.com
+#127.0.0.1 www.dyn.bannerflow.com
+#127.0.0.1 unibet-unibet.bannerflow.com
+#127.0.0.1 www.unibet-unibet.bannerflow.com
 ### ncore
 
 
@@ -196,6 +196,85 @@
 127.0.0.1 p.typekit.net
 127.0.0.1 use.typekit.net
 ### cosmopolitan.hu
+
+
+### jofogas.hu
+127.0.0.1 websdk.appsflyer.com
+127.0.0.1 af-event-logger.appsflyer.com
+127.0.0.1 www.websdk.appsflyer.com
+127.0.0.1 try.abtasty.com
+127.0.0.1 dcinfos-cache.abtasty.com
+127.0.0.1 abtasty.com
+127.0.0.1 ariane.abtasty.com
+127.0.0.1 tags.tiqcdn.com
+127.0.0.1 collect.tealiumiq.com
+127.0.0.1 tealiumiq.com
+127.0.0.1 tiqcdn.com
+127.0.0.1 sdk.mpianalytics.com
+127.0.0.1 collector.mpianalytics.com
+127.0.0.1 cis.mpianalytics.com
+127.0.0.1 mpianalytics.com
+127.0.0.1 logs1127.xiti.com
+127.0.0.1 xiti.com
+127.0.0.1 js.appboycdn.com
+127.0.0.1 appboycdn.com
+### jofogas.hu
+
+
+### life.hu
+127.0.0.1 capturly.com
+### life.hu
+
+
+### startlap.hu
+#127.0.0.1 yiifrontend.p3k.hu
+#127.0.0.1 assets-jpcust.jwpsrv.com
+#127.0.0.1 jpcust.jwpsrv.com
+127.0.0.1 jwpsrv.com
+127.0.0.1 sl-static.p3k.hu
+127.0.0.1 yt3.ggpht.com
+127.0.0.1 ggpht.com
+### startlap.hu
+
+
+### infostart.hu
+127.0.0.1 cmp.hit.gemius.pl
+### infostart.hu
+
+
+### tv2.hu
+127.0.0.1 tv2-bud.gravityrd-services.com
+127.0.0.1 gravityrd-services.com
+### tv2.hu
+
+
+### indavideo.hu
+127.0.0.1 gthu.hit.gemius.pl
+### indavideo.hu
+
+
+### profession.hu
+127.0.0.1 accounts.blogger.com
+127.0.0.1 accounts.partner.android.com
+127.0.0.1 partner.android.com
+127.0.0.1 bam-cell.nr-data.net
+127.0.0.1 nr-data.net
+127.0.0.1 js-agent.newrelic.com
+127.0.0.1 newrelic.com
+### profession.hu
+
+
+### atv.hu
+127.0.0.1 cdn.jsdelivr.net
+### atv.hu
+
+
+### hirstart.hu
+127.0.0.1 yiiadmin.startlap.hu
+### hirstart.hu
+
+
+
 
 
 ############## NON-HUNGARIAN ##############
