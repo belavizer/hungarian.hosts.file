@@ -402,4 +402,38 @@
 127.0.0.1 www.ids.cdnwidget.com
 ### gizmodo
 
+
+### lifehacker
+127.0.0.1 cdn-magiclinks.trackonomics.net
+127.0.0.1 trackonomics.net
+127.0.0.1 privacy-location-edge.ccgateway.net
+127.0.0.1 script-api.ccgateway.net
+127.0.0.1 ccgateway.net
+127.0.0.1 sourcepoint.lifehacker.com
+### lifehacker
+
+
+### engadget
+127.0.0.1 3p-geo.yahoo.com
+127.0.0.1 cms.analytics.yahoo.com
+127.0.0.1 opus.analytics.yahoo.com
+127.0.0.1 tag.idsync.analytics.yahoo.com
+127.0.0.1 service.idsync.analytics.yahoo.com
+127.0.0.1 ups.analytics.yahoo.com
+127.0.0.1 idsync.analytics.yahoo.com
+127.0.0.1 udc.yahoo.com
+127.0.0.1 analytics.yahoo.com
+127.0.0.1 yahoo.com
+127.0.0.1 cs.emxdgt.com
+127.0.0.1 emxdgt.com
+127.0.0.1 consent.cmp.oath.com
+127.0.0.1 cmp.oath.com
+127.0.0.1 oath.com
+127.0.0.1 guce.engadget.com
+127.0.0.1 jac.yahoosandbox.com
+127.0.0.1 yahoosandbox.com
+127.0.0.1 o.aolcdn.com
+127.0.0.1 aolcdn.com
+### engadget
+
 ############## NON-HUNGARIAN ##############
