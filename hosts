@@ -5,6 +5,9 @@
 ###################################################################################################################
 ###################################################################################################################
 
+
+############## SOCIAL MEDIA TRACKING ##############
+
 ### facebook - if you want to disable like buttons, trackings, etc, uncomment these - but you won't be able to login anymore
 #127.0.0.1	www.facebook.com
 #127.0.0.1	facebook.com
@@ -22,11 +25,21 @@
 
 
 ### instagram - if you want to disable like buttons, trackings, etc, uncomment these - but you won't be able to login anymore
-#127.0.0.1 www.instagram.com
-#127.0.0.1 instagram.com
-#127.0.0.1 scontent-frt3-1.cdninstagram.com
-#127.0.0.1 scontent-frx5-1.cdninstagram.com
+127.0.0.1 www.instagram.com
+127.0.0.1 instagram.com
+127.0.0.1 scontent-frt3-1.cdninstagram.com
+127.0.0.1 scontent-frx5-1.cdninstagram.com
 ### instagram
+
+
+### twitter
+127.0.0.1 platform.twitter.com
+127.0.0.1 syndication.twitter.com
+127.0.0.1 twitter.com
+### twitter
+
+############## SOCIAL MEDIA TRACKING ##############
+
 
 
 ### index.hu
@@ -279,6 +292,15 @@
 ### telex.hu
 
 
+### pcguru.hu
+127.0.0.1 cdn.mouseflow.com
+127.0.0.1 o2.mouseflow.com
+127.0.0.1 mouseflow.com
+127.0.0.1 front.optimonk.com
+127.0.0.1 gs-cdn.optimonk.com
+127.0.0.1 jfapiprod.optimonk.com
+127.0.0.1 optimonk.com
+### pcguru.hu
 
 
 
