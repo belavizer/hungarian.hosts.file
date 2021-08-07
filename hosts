@@ -43,7 +43,7 @@
 
 
 ### index.hu
-127.0.0.1 index.hu
+#127.0.0.1 index.hu
 127.0.0.1 ls.hit.gemius.pl
 127.0.0.1 gahu.hit.gemius.pl
 127.0.0.1 gemius.pl
@@ -119,8 +119,8 @@
 
 
 ### gyakorikerdesek.hu
-127.0.0.1 gyakorikerdesek.hu
-127.0.0.1 www.gyakorikerdesek.hu
+#127.0.0.1 gyakorikerdesek.hu
+#127.0.0.1 www.gyakorikerdesek.hu
 127.0.0.1 static.webminute.hu
 127.0.0.1 webminute.hu
 127.0.0.1 pahtag.tech
