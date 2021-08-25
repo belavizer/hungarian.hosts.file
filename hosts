@@ -40,6 +40,13 @@
 
 ############## SOCIAL MEDIA TRACKING ##############
 
+### google
+127.0.0.1 google-analytics.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 www.googletagmanager.com
+127.0.0.1 googletagmanager.com
+127.0.0.1 fundingchoicesmessages.google.com
 
 
 ### index.hu
@@ -52,15 +59,10 @@
 127.0.0.1 pagefair.net
 #127.0.0.1 ytimg.com
 #127.0.0.1 s.ytimg.com
-127.0.0.1 google-analytics.com
-127.0.0.1 ssl.google-analytics.com
 127.0.0.1 adocean.pl
 127.0.0.1 indexstat.index.hu
 127.0.0.1 static.hotjar.com
 127.0.0.1 script.hotjar.com
-127.0.0.1 www.google-analytics.com
-127.0.0.1 www.googletagmanager.com
-127.0.0.1 googletagmanager.com
 127.0.0.1 consensu.org
 127.0.0.1 www.consensu.org
 127.0.0.1 quantcast.mgr.consensu.org
@@ -142,7 +144,6 @@
 ### origo.hu
 #127.0.0.1 origo.hu
 #127.0.0.1 cdn.nwmgroups.hu
-127.0.0.1 fundingchoicesmessages.google.com
 127.0.0.1 ghmhu.hit.gemius.pl
 127.0.0.1 static.hotjar.com
 127.0.0.1 szallas.travelo.hu
