@@ -50,6 +50,8 @@
 127.0.0.1 googlesyndication.com
 127.0.0.1 pagead1.googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 googleadservices.com
+127.0.0.1 www.googleadservices.com
 
 
 ### index.hu
@@ -279,11 +281,6 @@
 ### profession.hu
 
 
-### atv.hu
-127.0.0.1 cdn.jsdelivr.net
-### atv.hu
-
-
 ### hirstart.hu
 127.0.0.1 yiiadmin.startlap.hu
 ### hirstart.hu
@@ -439,3 +436,19 @@
 ### engadget
 
 ############## NON-HUNGARIAN ##############
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
