@@ -53,6 +53,10 @@
 127.0.0.1 googleadservices.com
 127.0.0.1 www.googleadservices.com
 
+### random ad sites
+# first seen: gyakorikerdesek.hu
+127.0.0.1 ugyismegveszel.hu
+
 
 ### index.hu
 #127.0.0.1 index.hu
@@ -84,6 +88,7 @@
 ### prohardver
 127.0.0.1 doubleverify.com
 ### prohardver
+
 
 ### ncore
 #127.0.0.1 banneflow.com
