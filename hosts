@@ -181,6 +181,14 @@
 127.0.0.1 segment.p24.hu
 127.0.0.1 spl.hit.gemius.pl
 127.0.0.1 stat.p24.hu
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 quantcast.com
+127.0.0.1 cmp.quantcast.com
+127.0.0.1 p24.hu
+127.0.0.1 bt.p24.hu
+127.0.0.1 stat.24.hu
+127.0.0.1 stat.hirstart.hu
+127.0.0.1 ad-blacklist.p24.hu
 ### 24.hu
 
 
@@ -440,6 +448,7 @@
 127.0.0.1 o.aolcdn.com
 127.0.0.1 aolcdn.com
 ### engadget
+
 
 ############## NON-HUNGARIAN ##############
 
