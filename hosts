@@ -63,6 +63,7 @@
 #127.0.0.1 index.hu
 127.0.0.1 ls.hit.gemius.pl
 127.0.0.1 gahu.hit.gemius.pl
+127.0.0.1 gdehu.hit.gemius.pl
 127.0.0.1 gemius.pl
 127.0.0.1 asset.pagefair.com
 127.0.0.1 onesignal.com
@@ -302,6 +303,36 @@
 
 ### telex.hu
 127.0.0.1 telex.onepage.space
+127.0.0.1 criteo.com
+127.0.0.1 ads.eu.criteo.com
+127.0.0.1 cat.fr3.eu.criteo.com
+127.0.0.1 csm.eu.criteo.net
+127.0.0.1 pubmatic.com
+127.0.0.1 beam-tracker.telex.hu
+127.0.0.1 beam.telex.hu
+127.0.0.1 campaign.telex.hu
+127.0.0.1 doubleclick.net
+127.0.0.1 inmobi.com
+127.0.0.1 cmp.inmobi.com
+127.0.0.1 loopme.me
+127.0.0.1 csync.loopme.me
+127.0.0.1 eskimi.com
+127.0.0.1 dsp-ap.eskimi.com
+127.0.0.1 dsp-media.eskimi.com
+127.0.0.1 dsp-trvm.eskimi.com
+127.0.0.1 casalemedia.com
+127.0.0.1 dsum-sec.casalemedia.com
+127.0.0.1 openx.net
+127.0.0.1 eu-u.openx.net
+127.0.0.1 bidswitch.net
+127.0.0.1 rubiconproject.com
+127.0.0.1 beacon-ams3.rubiconproject.com
+127.0.0.1 token.rubiconproject.com
+127.0.0.1 dmxleo.com
+127.0.0.1 smartadserver.com
+127.0.0.1 cdn.performax.cz
+127.0.0.1 chip.performax.cz
+127.0.0.1 dale.performax.cz
 ### telex.hu
 
 
