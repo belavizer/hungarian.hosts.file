@@ -89,6 +89,10 @@
 
 ### prohardver
 127.0.0.1 doubleverify.com
+127.0.0.1 external-banner-service.alza.cz
+127.0.0.1 measuring-pixel-service.alza.cz
+127.0.0.1 adform.net
+127.0.0.1 track.adform.net
 ### prohardver
 
 
@@ -107,6 +111,8 @@
 127.0.0.1 www.gravityrd-services.com
 127.0.0.1 vatera-bud.gravityrd-services.com
 127.0.0.1 www.vatera-bud.gravityrdd-services.com
+127.0.0.1 ad.adverticum.net
+127.0.0.1 adverticum.net
 ### vatera
 
 
@@ -129,6 +135,8 @@
 127.0.0.1 www.related.hu
 127.0.0.1 widget.related.hu
 127.0.0.1 www.widget.related.hu
+127.0.0.1 kxcdn.com
+127.0.0.1 adsinteractive-794b.kxcdn.com
 ### moly.hu
 
 
@@ -143,6 +151,8 @@
 127.0.0.1 www.webminute.hu
 127.0.0.1 www.pahtag.tech
 127.0.0.1 www.aghtag.tech
+127.0.0.1 login.dognet.sk
+127.0.0.1 dognet.sk
 ### gyakorikerdesek.hu
 
 
@@ -150,6 +160,10 @@
 127.0.0.1 campaign-remp.444.hu
 #127.0.0.1 gateway.ipa.444.hu
 127.0.0.1 heartbeat.pmd.444.hu
+127.0.0.1 ltba.io
+127.0.0.1 cdn.ltba.io
+127.0.0.1 adaptivemedia.hu
+127.0.0.1 link.adaptivemedia.hu
 ### 444.hu
 
 
@@ -190,6 +204,14 @@
 127.0.0.1 stat.24.hu
 127.0.0.1 stat.hirstart.hu
 127.0.0.1 ad-blacklist.p24.hu
+127.0.0.1 newsroom.bi
+127.0.0.1 events.newsroom.bi
+127.0.0.1 mrf.io
+127.0.0.1 flowcards.mrf.io
+127.0.0.1 p3g.hu
+127.0.0.1 ijnwc11e6f7kk9p.p3g.hu
+127.0.0.1 marfeelexperimentsexperienceengine.mrf.io
+127.0.0.1 sdk.mrf.io
 ### 24.hu
 
 
