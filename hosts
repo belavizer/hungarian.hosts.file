@@ -110,16 +110,6 @@
 ### prohardver
 
 
-### ncore
-#127.0.0.1 banneflow.com
-#127.0.0.1 www.bannerflow.com
-#127.0.0.1 dyn.bannerflow.com
-#127.0.0.1 www.dyn.bannerflow.com
-#127.0.0.1 unibet-unibet.bannerflow.com
-#127.0.0.1 www.unibet-unibet.bannerflow.com
-### ncore
-
-
 ### vatera
 127.0.0.1 gravityrd-services.com
 127.0.0.1 www.gravityrd-services.com
@@ -515,6 +505,48 @@
 127.0.0.1 o.aolcdn.com
 127.0.0.1 aolcdn.com
 ### engadget
+
+### theguardian.com
+127.0.0.1 permutive.com
+127.0.0.1 api.permutive.com
+127.0.0.1 cdn.permutive.com
+127.0.0.1 permutive.app
+127.0.0.1 secure-signals.permutive.app
+127.0.0.1 adsystem.com
+127.0.0.1 amazon-adsystem.com
+127.0.0.1 a.amazon-adsystem.com
+127.0.0.1 b.amazon-adsystem.com
+127.0.0.1 c.amazon-adsystem.com
+127.0.0.1 d.amazon-adsystem.com
+127.0.0.1 e.amazon-adsystem.com
+127.0.0.1 f.amazon-adsystem.com
+127.0.0.1 g.amazon-adsystem.com
+127.0.0.1 h.amazon-adsystem.com
+127.0.0.1 i.amazon-adsystem.com
+127.0.0.1 adsafeprotected.com
+127.0.0.1 cdn.adsafeprotected.com
+127.0.0.1 brandmetrics.com
+127.0.0.1 collector.brandmetrics.com
+127.0.0.1 cdn.brandmetrics.com
+127.0.0.1 confiant-integrations.net
+127.0.0.1 cdn.confiant-integrations.net
+127.0.0.1 scorecardresearch.com
+127.0.0.1 sb.scorecardresearch.com
+127.0.0.1 doubleclick.net
+127.0.0.1 www3.doubleclick.net
+### theguardian.com
+
+
+### geoguessr.com
+127.0.0.1 profitwell.com
+127.0.0.1 profitwell.com
+127.0.0.1 www1.profitwell.com
+127.0.0.1 www2.profitwell.com
+127.0.0.1 www3.profitwell.com
+127.0.0.1 public.profitwell.com
+127.0.0.1 snigelweb.com
+127.0.0.1 cdn.snigelweb.com
+### geoguessr.com
 
 
 ############## NON-HUNGARIAN ##############
