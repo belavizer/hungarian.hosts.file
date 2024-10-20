@@ -57,7 +57,21 @@
 ### random ad sites
 # first seen: gyakorikerdesek.hu
 127.0.0.1 ugyismegveszel.hu
+### ranom ad sites
 
+### hvg.hu
+127.0.0.1 ebxcdn.com
+127.0.0.1 applets.ebxcdn.com
+127.0.0.1 pushwize.com
+127.0.0.1 config.pushwize.com
+127.0.0.1 web-sdk.pushwize.com
+127.0.0.1 g.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 sentry.io
+127.0.0.1 us.sentry.io
+127.0.0.1 ingest.us.sentry.io
+127.0.0.1 o116089.ingest.us.sentry.io
+### hvg.hu
 
 ### index.hu
 #127.0.0.1 index.hu
