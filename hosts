@@ -2,13 +2,24 @@
 # See hosts(5) for details.
 #
 #
-###################################################################################################################
-###################################################################################################################
+##############################################################################
+##############################################################################
+########                                                              ########
+########  (mostly) HUNGARIAN specific tracking/advertisement/...      ########
+########                    site collection                           ########
+########                                                              ########
+########  below the grouping primarily based on "first seen"          ########
+########           otherwise consider meaningless                     ########
+########                                                              ########
+##############################################################################
+
+
 
 
 ############## SOCIAL MEDIA TRACKING ##############
 
-### facebook - if you want to disable like buttons, trackings, etc, uncomment these - but you won't be able to login anymore
+### facebook - if you want to disable like buttons, trackings, etc,
+### uncomment these - but you won't be able to login anymore
 #127.0.0.1	www.facebook.com
 #127.0.0.1	facebook.com
 #127.0.0.1	login.facebook.com
@@ -24,7 +35,8 @@
 ### facebook
 
 
-### instagram - if you want to disable like buttons, trackings, etc, uncomment these - but you won't be able to login anymore
+### instagram - if you want to disable like buttons, trackings, etc,
+### uncomment these - but you won't be able to login anymore
 127.0.0.1 www.instagram.com
 127.0.0.1 instagram.com
 127.0.0.1 scontent-frt3-1.cdninstagram.com
@@ -32,10 +44,10 @@
 ### instagram
 
 
-### twitter
-127.0.0.1 platform.twitter.com
-127.0.0.1 syndication.twitter.com
-127.0.0.1 twitter.com
+### x.com previously known as Twitter
+127.0.0.1 o30969.ingest.us.sentry.io
+127.0.0.1 www.o30969.ingest.us.sentry.io
+#127.0.0.1 x.com
 ### twitter
 
 ############## SOCIAL MEDIA TRACKING ##############
@@ -45,6 +57,8 @@
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googletagmanager.com
+127.0.0.1 googletagservices.com
+127.0.0.1 www.googletagservices.com
 127.0.0.1 googletagmanager.com
 127.0.0.1 fundingchoicesmessages.google.com
 127.0.0.1 googlesyndication.com
@@ -55,8 +69,15 @@
 127.0.0.1 jnn-pa.googleapis.com
 
 ### random ad sites
-# first seen: gyakorikerdesek.hu
 127.0.0.1 ugyismegveszel.hu
+127.0.0.1 abo-widget.xyz
+127.0.0.1 www.abo-widget.xyz
+127.0.0.1 bl0ck4d.com
+127.0.0.1 www.bl0ck4d.com
+127.0.0.1 cfusion-internet.com
+127.0.0.1 www.cfusion-internet.com
+127.0.0.1 widget.bl0ck4d.com
+127.0.0.1 www.widget.bl0ck4d.com
 ### ranom ad sites
 
 ### hvg.hu
@@ -71,6 +92,26 @@
 127.0.0.1 us.sentry.io
 127.0.0.1 ingest.us.sentry.io
 127.0.0.1 o116089.ingest.us.sentry.io
+127.0.0.1 cdn.jsdelivr.net
+127.0.0.1 www.cdn.jsdelivr.net
+127.0.0.1 ex1tp.com
+127.0.0.1 www.ex1tp.com
+127.0.0.1 adocean.pl
+127.0.0.1 hu.adocean.pl
+127.0.0.1 www.adocean.pl
+127.0.0.1 www.hu.adocean.pl
+127.0.0.1 pixel-traffic-meter.hvg.hu
+127.0.0.1 www.pixel-traffic-meter.hvg.hu
+127.0.0.1 ptm.hvgrt.hu
+127.0.0.1 www.ptm.hvgrt.hu
+127.0.0.1 rd2024-gw.hvg.hu
+127.0.0.1 www.rd2024-gw.hvg.hu
+127.0.0.1 cloudflareinsights.com
+127.0.0.1 www.cloudflareinsights.com
+127.0.0.1 static.cloudflareinsights.com
+127.0.0.1 www.static.cloudflareinsights.com
+127.0.0.1 unpkg.com
+127.0.0.1 www.unpkg.com
 ### hvg.hu
 
 ### index.hu
@@ -81,6 +122,9 @@
 127.0.0.1 gemius.pl
 127.0.0.1 asset.pagefair.com
 127.0.0.1 onesignal.com
+127.0.0.1 www.onesignal.com
+127.0.0.1 cdn.onesignal.com
+127.0.0.1 www.cdn.onesignal.com
 127.0.0.1 pagefair.net
 #127.0.0.1 ytimg.com
 #127.0.0.1 s.ytimg.com
@@ -98,6 +142,14 @@
 127.0.0.1 www.pixel.quantserve.com
 127.0.0.1 bank360.hu
 127.0.0.1 www.bank360.hu
+127.0.0.1 indexadhu.hit.gemius.pl
+127.0.0.1 www.indexadhu.hit.gemius.pl
+127.0.0.1 indexhu.adocean.pl
+127.0.0.1 www.indexhu.adocean.pl
+127.0.0.1 matomo.index.hu
+127.0.0.1 www.matomo.index.hu
+127.0.0.1 scripts.keytiles.com
+127.0.0.1 www.scripts.keytiles.com
 ### index.hu
 
 
@@ -107,6 +159,7 @@
 127.0.0.1 measuring-pixel-service.alza.cz
 127.0.0.1 adform.net
 127.0.0.1 track.adform.net
+external-banner-service.alza.cz
 ### prohardver
 
 
@@ -141,6 +194,8 @@
 127.0.0.1 www.widget.related.hu
 127.0.0.1 kxcdn.com
 127.0.0.1 adsinteractive-794b.kxcdn.com
+127.0.0.1 cdn.fuseplatform.net
+127.0.0.1 www.cdn.fuseplatform.net
 ### moly.hu
 
 
@@ -163,11 +218,28 @@
 ### 444.hu
 127.0.0.1 campaign-remp.444.hu
 #127.0.0.1 gateway.ipa.444.hu
+127.0.0.1 pmd.444.hu
+127.0.0.1 www.pmd.444.hu
 127.0.0.1 heartbeat.pmd.444.hu
+127.0.0.1 www.heartbeat.pmd.444.hu
 127.0.0.1 ltba.io
 127.0.0.1 cdn.ltba.io
 127.0.0.1 adaptivemedia.hu
 127.0.0.1 link.adaptivemedia.hu
+127.0.0.1 doubleclick.net
+127.0.0.1 www.doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 www.ad.doubleclick.net
+127.0.0.1 sportmonks.com
+127.0.0.1 www.sportmonks.com
+127.0.0.1 cdn.sportmonks.com
+127.0.0.1 www.cdn.sportmonks.com
+#127.0.0.1 assets.4cdn.hu
+#127.0.0.1 www.assets.4cdn.hu
+#127.0.0.1 ipa.444.hu
+#127.0.0.1 www.ipa.444.hu
+#127.0.0.1 gateway.ipa.444.hu
+#127.0.0.1 www.gateway.ipa.444.hu
 ### 444.hu
 
 
@@ -179,6 +251,16 @@
 127.0.0.1 szallas.travelo.hu
 127.0.0.1 utazas.travelo.hu
 127.0.0.1 outal.origo.hu
+127.0.0.1 mediaworks.hu
+127.0.0.1 www.mediaworks.hu
+127.0.0.1 terelo.mediaworks.hu
+127.0.0.1 www.terelo.mediaworks.hu
+127.0.0.1 flourish.studio
+127.0.0.1 www.flourish.studio
+127.0.0.1 public.flourish.studio
+127.0.0.1 www.public.flourish.studio
+127.0.0.1 woobox.com
+127.0.0.1 www.woobox.com
 ### origo.hu
 
 
@@ -190,6 +272,8 @@
 ### vg.hu
 127.0.0.1 cdn.embedly.com
 127.0.0.1 zoe.mediaworks.hu
+127.0.0.1 fd.mediaworks.hu
+127.0.0.1 www.fd.mediaworks.hu
 ### vg.hu
 
 
@@ -216,6 +300,44 @@
 127.0.0.1 ijnwc11e6f7kk9p.p3g.hu
 127.0.0.1 marfeelexperimentsexperienceengine.mrf.io
 127.0.0.1 sdk.mrf.io
+127.0.0.1 cmhu.adocean.pl
+127.0.0.1 www.cmhu.adocean.pl
+127.0.0.1 cts.24.hu
+127.0.0.1 www.cts.24.hu
+127.0.0.1 fgkt9yyb3c4hh6m.p3g.hu
+127.0.0.1 www.fgkt9yyb3c4hh6m.p3g.hu
+127.0.0.1 p3g.hu
+127.0.0.1 www.p3g.hu
+127.0.0.1 sentry.vg.hu
+127.0.0.1 www.sentry.vg.hu
+127.0.0.1 static.criteo.net
+127.0.0.1 www.static.criteo.net
+127.0.0.1 tippjatek.24.hu
+127.0.0.1 www.tippjatek.24.hu
+127.0.0.1 assets-jpcust.jwpsrv.com
+127.0.0.1 www.assets-jpcust.jwpsrv.com
+127.0.0.1 jwpsrv.com
+127.0.0.1 www.jwpsrv.com
+127.0.0.1 jwplayer.com
+127.0.0.1 www.jwplayer.com
+127.0.0.1 cdn.jwplayer.com
+127.0.0.1 www.cdn.jwplayer.com
+127.0.0.1 jwplatform.com
+127.0.0.1 www.jwplatform.com
+127.0.0.1 content.jwplatform.com
+127.0.0.1 www.content.jwplatform.com
+127.0.0.1 entitlements.jwplayer.com
+127.0.0.1 www.entitlements.jwplayer.com
+127.0.0.1 jwpltx.com
+127.0.0.1 www.jwpltx.com
+127.0.0.1 prd.jwpltx.com
+127.0.0.1 www.prd.jwpltx.com
+127.0.0.1 jwpcdn.com
+127.0.0.1 www.jwpcdn.com
+127.0.0.1 p.jwpcdn.com
+127.0.0.1 www.p.jwpcdn.com
+127.0.0.1 ssl.p.jwpcdn.com
+127.0.0.1 www.ssl.p.jwpcdn.com
 ### 24.hu
 
 
@@ -223,6 +345,10 @@
 127.0.0.1 assets.strossle.com
 127.0.0.1 cdn.atmedia.hu
 127.0.0.1 cdn.publisher1st.com
+127.0.0.1 html-load.com
+127.0.0.1 www.html-load.com
+127.0.0.1 restomp-excity.online
+127.0.0.1 www.restomp-excity.online
 ### idokep.hu
 
 
@@ -235,19 +361,38 @@
 127.0.0.1 location.api.useinsider.com
 127.0.0.1 segment.api.useinsider.com
 127.0.0.1 unification.useinsider.com
+127.0.0.1 aitoday.hu
+127.0.0.1 www.aitoday.hu
+127.0.0.1 heatmap.it
+127.0.0.1 www.heatmap.it
+127.0.0.1 u.heatmap.it
+127.0.0.1 www.u.heatmap.it
 ### szeretlekmagyarorszag.hu
 
 
 ### divany.hu
 127.0.0.1 indexadhu.hit.gemius.pl
 127.0.0.1 management.ident.indapass.hu
+127.0.0.1 ampproject.org
+127.0.0.1 www.ampproject.org
+127.0.0.1 cdn.ampproject.org
+127.0.0.1 www.cdn.ampproject.org
 ### divany.hu
 
 
 ### bien.hu
 127.0.0.1 cdn.onesignal.com
+127.0.0.1 alexametrics.com
 127.0.0.1 certify-js.alexametrics.com
 127.0.0.1 redirect.prod.experiment.routing.cloudfront.aws.a2z.com
+127.0.0.1 webpushr.com
+127.0.0.1 www.webpushr.com
+127.0.0.1 cdn.webpushr.com
+127.0.0.1 www.cdn.webpushr.com
+127.0.0.1 zencdn.net
+127.0.0.1 www.zencdn.net
+127.0.0.1 vjs.zencdn.net
+127.0.0.1 www.vjs.zencdn.net
 ### bien.hu
 
 
@@ -255,6 +400,18 @@
 127.0.0.1 hello.myfonts.net
 127.0.0.1 p.typekit.net
 127.0.0.1 use.typekit.net
+127.0.0.1 hearstapps.com
+127.0.0.1 www.hearstapps.com
+127.0.0.1 assets.hearstapps.com
+127.0.0.1 www.assets.hearstapps.com
+127.0.0.1 static-assets.hearstapps.com
+127.0.0.1 www.static-assets.hearstapps.com
+127.0.0.1 hips.hearstapps.com
+127.0.0.1 www.hips.hearstapps.com
+127.0.0.1 ensighten.com
+127.0.0.1 www.ensighten.com
+127.0.0.1 nexus.ensighten.com
+127.0.0.1 www.nexus.ensighten.com
 ### cosmopolitan.hu
 
 
@@ -278,6 +435,12 @@
 127.0.0.1 xiti.com
 127.0.0.1 js.appboycdn.com
 127.0.0.1 appboycdn.com
+127.0.0.1 privacy-center.org
+127.0.0.1 www.privacy-center.org
+127.0.0.1 sdk.privacy-center.org
+127.0.0.1 www.sdk.privacy-center.org
+127.0.0.1 pixel.rubiconproject.com
+127.0.0.1 www.pixel.rubiconproject.com
 ### jofogas.hu
 
 
@@ -288,15 +451,17 @@
 
 ### startlap.hu
 #127.0.0.1 yiifrontend.p3k.hu
-#127.0.0.1 assets-jpcust.jwpsrv.com
-#127.0.0.1 jpcust.jwpsrv.com
+127.0.0.1 assets-jpcust.jwpsrv.com
+127.0.0.1 jpcust.jwpsrv.com
 127.0.0.1 jwpsrv.com
-127.0.0.1 sl-static.p3k.hu
+#127.0.0.1 sl-static.p3k.hu
 ### startlap.hu
 
 
 ### infostart.hu
 127.0.0.1 cmp.hit.gemius.pl
+127.0.0.1 pahtfi.tech
+127.0.0.1 www.pahtfi.tech
 ### infostart.hu
 
 
@@ -359,6 +524,10 @@
 127.0.0.1 cdn.performax.cz
 127.0.0.1 chip.performax.cz
 127.0.0.1 dale.performax.cz
+127.0.0.1 api-sports.io
+127.0.0.1 www.api-sports.io
+127.0.0.1 media.api-sports.io
+127.0.0.1 www.media.api-sports.io
 ### telex.hu
 
 
@@ -380,6 +549,10 @@
 127.0.0.1 o516780.ingest.sentry.io
 127.0.0.1 stk.px-cloud.net
 127.0.0.1 app.usercentrics.eu
+127.0.0.1 icg-in.info
+127.0.0.1 www.icg-in.info
+127.0.0.1 conn-check.icg-in.info
+127.0.0.1 www.conn-check.icg-in.info
 ## foodora.hu
 
 
@@ -411,6 +584,18 @@
 127.0.0.1 www.geolocation.onetrust.com
 127.0.0.1 plantdigestion.com
 127.0.0.1 www.plantdigestion.com
+127.0.0.1 analyze-82dfgsi2.m-w.com
+127.0.0.1 www.analyze-82dfgsi2.m-w.com
+127.0.0.1 launchdarkly.com
+127.0.0.1 www.launchdarkly.com
+127.0.0.1 app.launchdarkly.com
+127.0.0.1 www.app.launchdarkly.com
+127.0.0.1 events.launchdarkly.com
+127.0.0.1 www.events.launchdarkly.com
+127.0.0.1 visualwebsiteoptimizer.com
+127.0.0.1 www.visualwebsiteoptimizer.com
+127.0.0.1 dev.visualwebsiteoptimizer.com
+127.0.0.1 www.dev.visualwebsiteoptimizer.com
 ### Merriam-Webster
 
 
@@ -433,6 +618,21 @@
 127.0.0.1 www.aa.online-metrix.net
 127.0.0.1 e.aa.online-metrix.net
 127.0.0.1 www.e.aa.online-metrix.net
+127.0.0.1 backstory.ebay.com
+127.0.0.1 www.backstory.ebay.com
+127.0.0.1 perfdrive.com
+127.0.0.1 www.perfdrive.com
+127.0.0.1 avalon.perfdrive.com
+127.0.0.1 www.avalon.perfdrive.com
+127.0.0.1 cas.avalon.perfdrive.com
+127.0.0.1 www.cas.avalon.perfdrive.com
+127.0.0.1 pulsar.ebay.com
+127.0.0.1 www.pulsar.ebay.com
+127.0.0.1 rover.ebay.com
+127.0.0.1 www.rover.ebay.com
+127.0.0.1 sherlock-events-sampler.ebay.com
+127.0.0.1 www.sherlock-events-sampler.ebay.com
+### ebay
 
 
 ### gizmodo
@@ -480,6 +680,40 @@
 127.0.0.1 www.e.cdnwidget.com
 127.0.0.1 ids.cdnwidget.com
 127.0.0.1 www.ids.cdnwidget.com
+127.0.0.1 spot.im
+127.0.0.1 www.spot.im
+127.0.0.1 api-2-0.spot.im
+127.0.0.1 www.api-2-0.spot.im
+127.0.0.1 direct-events-collector.spot.im
+127.0.0.1 www.direct-events-collector.spot.im
+127.0.0.1 launcher.spot.im
+127.0.0.1 www.launcher.spot.im
+127.0.0.1 metrics-logger.spot.im
+127.0.0.1 www.metrics-logger.spot.im
+127.0.0.1 pix.spot.im
+127.0.0.1 www.pix.spot.im
+127.0.0.1 static-cdn.spot.im
+127.0.0.1 www.static-cdn.spot.im
+127.0.0.1 connatix.com
+127.0.0.1 www.connatix.com
+127.0.0.1 cd.connatix.com
+127.0.0.1 www.cd.connatix.com
+127.0.0.1 sirdata.eu
+127.0.0.1 www.sirdata.eu
+127.0.0.1 cdn.sirdata.eu
+127.0.0.1 www.cdn.sirdata.eu
+127.0.0.1 sddan.com
+127.0.0.1 www.sddan.com
+127.0.0.1 js.sddan.com
+127.0.0.1 www.js.sddan.com
+127.0.0.1 scorecardresearch.com
+127.0.0.1 www.scorecardresearch.com
+127.0.0.1 sb.scorecardresearch.com
+127.0.0.1 www.sb.scorecardresearch.com
+127.0.0.1 opti-digital.com
+127.0.0.1 www.opti-digital.com
+127.0.0.1 scripts.opti-digital.com
+127.0.0.1 www.scripts.opti-digital.com
 ### gizmodo
 
 
@@ -544,6 +778,22 @@
 127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 doubleclick.net
 127.0.0.1 www3.doubleclick.net
+127.0.0.1 ophan.theguardian.com
+127.0.0.1 www.ophan.theguardian.com
+127.0.0.1 scorecardresearch.com
+127.0.0.1 www.scorecardresearch.com
+127.0.0.1 sb.scorecardresearch.com
+127.0.0.1 www.sb.scorecardresearch.com
+127.0.0.1 googleadservices.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 teads.tv
+127.0.0.1 www.teads.tv
+127.0.0.1 a.teads.tv
+127.0.0.1 www.a.teads.tv
+127.0.0.1 feast-events.guardianapis.com
+127.0.0.1 www.feast-events.guardianapis.com
+127.0.0.1 performance-events.guardianapis.com
+127.0.0.1 www.performance-events.guardianapis.com
 ### theguardian.com
 
 
@@ -556,23 +806,13 @@
 127.0.0.1 public.profitwell.com
 127.0.0.1 snigelweb.com
 127.0.0.1 cdn.snigelweb.com
+127.0.0.1 o4508138072113152.ingest.de.sentry.io
+127.0.0.1 www.o4508138072113152.ingest.de.sentry.io
+127.0.0.1 snigelweb.com
+127.0.0.1 www.snigelweb.com
+127.0.0.1 scripts.snigelweb.com
+127.0.0.1 www.scripts.snigelweb.com
 ### geoguessr.com
 
 
 ############## NON-HUNGARIAN ##############
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
