@@ -92,8 +92,8 @@
 127.0.0.1 us.sentry.io
 127.0.0.1 ingest.us.sentry.io
 127.0.0.1 o116089.ingest.us.sentry.io
-127.0.0.1 cdn.jsdelivr.net
-127.0.0.1 www.cdn.jsdelivr.net
+#127.0.0.1 cdn.jsdelivr.net
+#127.0.0.1 www.cdn.jsdelivr.net
 127.0.0.1 ex1tp.com
 127.0.0.1 www.ex1tp.com
 127.0.0.1 adocean.pl
