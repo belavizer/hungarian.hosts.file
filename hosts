@@ -37,10 +37,10 @@
 
 ### instagram - if you want to disable like buttons, trackings, etc,
 ### uncomment these - but you won't be able to login anymore
-127.0.0.1 www.instagram.com
-127.0.0.1 instagram.com
-127.0.0.1 scontent-frt3-1.cdninstagram.com
-127.0.0.1 scontent-frx5-1.cdninstagram.com
+#127.0.0.1 www.instagram.com
+#127.0.0.1 instagram.com
+#127.0.0.1 scontent-frt3-1.cdninstagram.com
+#127.0.0.1 scontent-frx5-1.cdninstagram.com
 ### instagram
 
 
@@ -159,7 +159,7 @@
 127.0.0.1 measuring-pixel-service.alza.cz
 127.0.0.1 adform.net
 127.0.0.1 track.adform.net
-external-banner-service.alza.cz
+127.0.0.1 external-banner-service.alza.cz
 ### prohardver
 
 
