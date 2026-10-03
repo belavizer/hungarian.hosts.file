@@ -528,6 +528,14 @@
 127.0.0.1 www.api-sports.io
 127.0.0.1 media.api-sports.io
 127.0.0.1 www.media.api-sports.io
+127.0.0.1 zenga.hu
+127.0.0.1 www.zenga.hu
+127.0.0.1 assets.zenga.hu
+127.0.0.1 www.assets.zenga.hu
+127.0.0.1 typekit.net
+127.0.0.1 www.typekit.net
+127.0.0.1 use.typekit.net
+127.0.0.1 www.use.typekit.net
 ### telex.hu
 
 
@@ -565,6 +573,12 @@
 127.0.0.1 www.rklm3.parom.hu
 127.0.0.1 parom.hu
 127.0.0.1 www.parom.hu
+127.0.0.1 online.bardtest.gg
+127.0.0.1 www.online.bardtest.gg
+127.0.0.1 eoshop.online
+127.0.0.1 www.eoshop.online
+127.0.0.1 viszony.hu                                # looks very scammy
+127.0.0.1 www.viszony.hu                            # looks very scammy
 ## random Hungarian finds
 
 
